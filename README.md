@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=rlueder&show_icons=true" alt="rlueder" />
--->
+<img src="https://github-readme-stats-rlueder.vercel.app/api?username=rlueder&show_icons=true&theme=transparent" alt="rlueder" />
