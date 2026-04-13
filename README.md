@@ -14,7 +14,7 @@
   </tr>
 </table> -->
 
-20+ years building things people actually want to use. I work across the full stack of product-making — interaction design, front-end engineering, and everything in between.
+25+ years building things people actually want to use. I work across the full stack of product-making — interaction design, front-end engineering, and everything in between.
 
 Past clients include Dell, Boeing, Bank of America, Walgreens, and startups like Kespry, Levels, and Glue AI. Desktop, mobile, embedded — a few continents along the way.
 
